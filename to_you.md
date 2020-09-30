@@ -700,9 +700,9 @@ This text was translated from Japanese by Jesse Haasch and Muhō. The complete b
 
 ## About this e-book
 
-This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
+This e-book was created by [ahtrahddis](https://ahtrahddis.github.io) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
 
 
 ## Version
 
-V 1.00 - 2020-05-20
+V 1.01 - 2020-09-30
